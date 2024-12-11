@@ -52,11 +52,11 @@ This implementation uses a variant of the PRQuadTree with the following characte
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PointsDatabase.git
+   git clone git@github.com:your-username/PointsDatabase-Skiplist-PRQuadtree-.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PointsDatabase
+   cd PointsDatabase-Skiplist-PRQuadtree-
    ```
 3. Compile the source code:
    ```bash
